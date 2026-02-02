@@ -67,3 +67,8 @@
 
 <br/>
 <br/>
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SauloDavi28&theme=tokyonight)
+
+
+
